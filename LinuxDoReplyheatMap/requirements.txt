@@ -1,0 +1,6 @@
+DrissionPage==4.1.0.18
+matplotlib==3.10.3
+numpy==2.3.0
+pandas==2.3.0
+plotly==6.1.2
+python-dotenv==1.0.1
